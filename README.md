@@ -45,7 +45,7 @@ olarak ayarlanmıştır.
 
 *İstanbul switch'ine port-security ayarı yapıldı. 
 
-# Proje 2
+# PROJE 2
 ## OSPF
 
 *İstanbul,Ankara ve İzmir routerları arasında OSPF Config yapıldı.
